@@ -76,7 +76,7 @@ T wlib::Json::get(std::string * err_dump)
 		if (this->json_value.is<T>()) {
 			return this->json_value.get<T>();
 		}
-		this->err_str = "Different Type.";
+		this->err_str = "Mismatched Type.";
 	}
 	if (err_dump != nullptr) *err_dump = this->err_str;
 	return T();
