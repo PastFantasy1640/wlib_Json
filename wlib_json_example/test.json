@@ -1,0 +1,24 @@
+{
+    "year" : 2013,
+    "title" : "Turn It Down, Or Else!",
+    "info" : {
+        "directors" : [
+            "Alice Smith",
+            "Bob Jones"
+        ],
+        "release_date" : "2013-01-18T00:00:00Z",
+        "rating" : 6.2,
+        "genres" : [
+            "Comedy",
+            "Drama"
+        ],
+        "plot" : "A rock band plays their music at high volumes, annoying the neighbors.",
+        "rank" : 11,
+        "running_time_secs" : 5215,
+        "actors" : [
+            "David Matthewman",
+            "Ann Thomas",
+            "Jonathan G. Neff"
+       ]
+    }
+}
